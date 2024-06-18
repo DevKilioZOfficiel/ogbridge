@@ -5,7 +5,7 @@
     "currentVersion": "0.0.1",
     "versionName": "Launch App",
     "versionDescription": "",
-    "versionDownloadUrl": ""
+    "versionDownloadUrl": "https://api.oghub.fr/ogbridge/oghub.exe"
   },
   "plugin": {
     "url": "https://raw.githubusercontent.com/DevKilioZOfficiel/landialowiez/main/scs-telemetry.dll",
