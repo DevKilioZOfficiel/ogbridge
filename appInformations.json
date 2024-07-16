@@ -2,9 +2,9 @@
   "appName": "OGBridge",
   "appDescription": "Official ETS/ATS Tracker by OGHub",
   "version": {
-    "currentVersion": "0.0.3",
-    "versionName": "0.0.3 Update",
-    "versionDescription": "Fix. Add 94.5km/h to race (5%)",
+    "currentVersion": "0.0.4",
+    "versionName": "0.0.4 Update",
+    "versionDescription": "New Features ! Possible to change location ETS2/ATS/TMP & Auto-Install the Telemetry. And ! Other Telemetry are compatible using OGBridge",
     "versionDownloadUrl": "https://api.oghub.fr/ogbridge/oghub.exe"
   },
   "plugin": {
