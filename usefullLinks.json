@@ -4,7 +4,7 @@
     "game": "ats",
     "price": "0",
     "maxPrice": "0",
-    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.png",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
     "url": "https://truckymods.io/american-truck-simulator/all",
     "isPrimary": false,
     "isMega": true
@@ -24,7 +24,7 @@
     "game": "ats",
     "price": "0",
     "maxPrice": "199",
-    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.png",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
     "url": "https://gumroad.com/?query=ats&sort=curated",
     "isPrimary": false,
     "isMega": false
@@ -44,7 +44,7 @@
     "game": "ats",
     "price": "0",
     "maxPrice": "0",
-    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
     "url": "https://steamcommunity.com/app/270880/workshop/",
     "isPrimary": false,
     "isMega": false
