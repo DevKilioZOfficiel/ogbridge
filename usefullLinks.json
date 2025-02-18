@@ -1,0 +1,34 @@
+[
+  {
+    "name": "TruckyMods ATS",
+    "game": "ats",
+    "banner": "",
+    "url": "https://truckymods.io/american-truck-simulator/all",
+    "isPrimary": false,
+    "isMega": true
+  },
+  {
+    "name": "TruckyMods ETS2",
+    "game": "ets2",
+    "banner": "",
+    "url": "https://truckymods.io/euro-truck-simulator-2/all",
+    "isPrimary": false,
+    "isMega": false
+  },
+  {
+    "name": "Gumroad ATS",
+    "game": "ats",
+    "banner": "",
+    "url": "https://gumroad.com/?query=ats&sort=curated",
+    "isPrimary": false,
+    "isMega": true
+  },
+  {
+    "name": "Gumroad ETS2",
+    "game": "ets2",
+    "banner": "",
+    "url": "https://gumroad.com/?query=ets2&sort=curated",
+    "isPrimary": false,
+    "isMega": false
+  }
+]
