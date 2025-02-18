@@ -2,6 +2,8 @@
   {
     "name": "TruckyMods ATS",
     "game": "ats",
+    "sizeW": 24,
+    "sizeH": 24,
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
@@ -12,6 +14,8 @@
   {
     "name": "TruckyMods ETS2",
     "game": "ets2",
+    "sizeW": 24,
+    "sizeH": 24,
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
@@ -22,6 +26,8 @@
   {
     "name": "Gumroad ATS",
     "game": "ats",
+    "sizeW": 24,
+    "sizeH": 24,
     "price": "0",
     "maxPrice": "199",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
@@ -32,6 +38,8 @@
   {
     "name": "Gumroad ETS2",
     "game": "ets2",
+    "sizeW": 24,
+    "sizeH": 24,
     "price": "0",
     "maxPrice": "199",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
@@ -42,6 +50,8 @@
   {
     "name": "Steam Workshop ATS",
     "game": "ats",
+    "sizeW": 24,
+    "sizeH": 24,
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
@@ -52,6 +62,8 @@
   {
     "name": "Steam Workshop ETS2",
     "game": "ets2",
+    "sizeW": 24,
+    "sizeH": 24,
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
@@ -62,6 +74,8 @@
   {
     "name": "Project Next-Gen",
     "game": "scs",
+    "sizeW": 48,
+    "sizeH": 24,
     "price": "20",
     "maxPrice": "30",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
@@ -72,6 +86,8 @@
   {
     "name": "JBX Graphics & Weather mods",
     "game": "scs",
+    "sizeW": 48,
+    "sizeH": 24,
     "price": "20",
     "maxPrice": "90",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
