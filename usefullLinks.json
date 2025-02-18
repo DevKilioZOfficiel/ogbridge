@@ -27,7 +27,7 @@
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.png",
     "url": "https://gumroad.com/?query=ats&sort=curated",
     "isPrimary": false,
-    "isMega": true
+    "isMega": false
   },
   {
     "name": "Gumroad ETS2",
