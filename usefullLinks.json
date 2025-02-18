@@ -2,7 +2,9 @@
   {
     "name": "TruckyMods ATS",
     "game": "ats",
-    "banner": "",
+    "price": "0",
+    "maxPrice": "0",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.png",
     "url": "https://truckymods.io/american-truck-simulator/all",
     "isPrimary": false,
     "isMega": true
@@ -10,7 +12,9 @@
   {
     "name": "TruckyMods ETS2",
     "game": "ets2",
-    "banner": "",
+    "price": "0",
+    "maxPrice": "0",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
     "url": "https://truckymods.io/euro-truck-simulator-2/all",
     "isPrimary": false,
     "isMega": false
@@ -18,7 +22,9 @@
   {
     "name": "Gumroad ATS",
     "game": "ats",
-    "banner": "",
+    "price": "0",
+    "maxPrice": "199",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.png",
     "url": "https://gumroad.com/?query=ats&sort=curated",
     "isPrimary": false,
     "isMega": true
@@ -26,8 +32,40 @@
   {
     "name": "Gumroad ETS2",
     "game": "ets2",
-    "banner": "",
+    "price": "0",
+    "maxPrice": "199",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
     "url": "https://gumroad.com/?query=ets2&sort=curated",
+    "isPrimary": false,
+    "isMega": false
+  },
+  {
+    "name": "Steam Workshop ATS",
+    "game": "ats",
+    "price": "0",
+    "maxPrice": "0",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
+    "url": "https://steamcommunity.com/app/270880/workshop/",
+    "isPrimary": false,
+    "isMega": false
+  },
+  {
+    "name": "Steam Workshop ETS2",
+    "game": "ets2",
+    "price": "0",
+    "maxPrice": "0",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
+    "url": "https://steamcommunity.com/app/227300/workshop/",
+    "isPrimary": false,
+    "isMega": false
+  },
+  {
+    "name": "JBX Graphics & Weather mods",
+    "game": "scs",
+    "price": "20",
+    "maxPrice": "90",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
+    "url": "https://www.jbxgraphicsmods.com/forum/viewtopic.php?f=32&t=79",
     "isPrimary": false,
     "isMega": false
   }
