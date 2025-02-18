@@ -60,6 +60,16 @@
     "isMega": false
   },
   {
+    "name": "Project Next-Gen",
+    "game": "scs",
+    "price": "20",
+    "maxPrice": "30",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
+    "url": "https://www.facebook.com/DamianSVW/",
+    "isPrimary": false,
+    "isMega": false
+  },
+  {
     "name": "JBX Graphics & Weather mods",
     "game": "scs",
     "price": "20",
