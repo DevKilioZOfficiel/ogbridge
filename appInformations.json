@@ -2,9 +2,9 @@
   "appName": "OGBridge",
   "appDescription": "Official ETS/ATS Tracker by OGHub",
   "version": {
-    "currentVersion": "0.0.5",
-    "versionName": "0.0.5 Update",
-    "versionDescription": "Fix bugs",
+    "currentVersion": "0.0.6",
+    "versionName": "0.0.6 Update",
+    "versionDescription": "New Board UI, Added mods page for ETS2/ATS, New Games UI in starting game",
     "versionDownloadUrl": "https://api.oghub.fr/ogbridge/oghub.exe"
   },
   "plugin": {
