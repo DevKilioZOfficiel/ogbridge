@@ -1,5 +1,17 @@
 [
   {
+    "name": "Promods",
+    "game": "scs",
+    "sizeW": 48,
+    "sizeH": 24,
+    "price": "0",
+    "maxPrice": "0",
+    "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/promods.png",
+    "url": "https://promods.net/?utm_source=oghub.fr",
+    "isPrimary": false,
+    "isMega": true
+  },
+  {
     "name": "TruckyMods ATS",
     "game": "ats",
     "sizeW": 24,
@@ -7,9 +19,9 @@
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
-    "url": "https://truckymods.io/american-truck-simulator/all",
+    "url": "https://truckymods.io/american-truck-simulator/all?utm_source=oghub.fr",
     "isPrimary": false,
-    "isMega": true
+    "isMega": false
   },
   {
     "name": "TruckyMods ETS2",
@@ -19,7 +31,7 @@
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
-    "url": "https://truckymods.io/euro-truck-simulator-2/all",
+    "url": "https://truckymods.io/euro-truck-simulator-2/all?utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
   },
@@ -31,7 +43,7 @@
     "price": "0",
     "maxPrice": "199",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
-    "url": "https://gumroad.com/?query=ats&sort=curated",
+    "url": "https://gumroad.com/?query=ats&sort=curated&utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
   },
@@ -43,7 +55,7 @@
     "price": "0",
     "maxPrice": "199",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
-    "url": "https://gumroad.com/?query=ets2&sort=curated",
+    "url": "https://gumroad.com/?query=ets2&sort=curated&utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
   },
@@ -55,7 +67,7 @@
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ats.jpg",
-    "url": "https://steamcommunity.com/app/270880/workshop/",
+    "url": "https://steamcommunity.com/app/270880/workshop/?utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
   },
@@ -67,7 +79,7 @@
     "price": "0",
     "maxPrice": "0",
     "banner": "https://raw.githubusercontent.com/DevKilioZOfficiel/ogbridge/main/img/ets2.png",
-    "url": "https://steamcommunity.com/app/227300/workshop/",
+    "url": "https://steamcommunity.com/app/227300/workshop/?utm_source=oghub.fr",
     "isPrimary": false,
     "isMega": false
   },
